@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [@endercrackyt](https://github.com/endercrackyt)
+# 👋 Hi, I’m [@endercrackyt](https://github.com/enderdev-v)
 
 I'm learning web design
 
@@ -12,7 +12,7 @@ console.log("ender ready")
 		presence()
 ```
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/endercrackyt?cardType=level&theme=synthwave&Text=149C9B)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/enderdev-v?cardType=level&theme=synthwave&Text=149C9B)](https://git.io/awesome-stats-card)
 
 <!---
 endercrackyt/endercrackyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
