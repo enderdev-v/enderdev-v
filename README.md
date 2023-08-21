@@ -1,5 +1,9 @@
 # 👋 Hi, I’m [@enderdev](https://github.com/enderdev-v)
 
+![chico](https://media.discordapp.net/attachments/1069321375979946086/1143229688085500055/chico.png?width=473&height=473)
+
+
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/enderdev-v) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@enderdev-v) 
 
 - **I'm learning web design**
