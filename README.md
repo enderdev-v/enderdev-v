@@ -40,18 +40,21 @@ type ender = {
 </div>
 
 ## Technology's 💻
+<div style="display:flex">
 
 <img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/java/java.svg" height=32 width=32>
 <img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/js/js.svg" height=32 width=32>
 <img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/tailwind/tailwind.svg" height=32 width=32>
 <img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/ts/ts.svg" height=32 width=32>
 <img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/html/html.svg" height=32 width=32>
-<br>
+
 <img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/mongodb/mongodb.svg" height=32 width=32>
 <img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/reactjs/reactjs.svg" height=32 width=32>
 <img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/nextjs/nextjs.svg" height=32 width=32>
 <img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/css/css.svg" height=32 width=32>
 <img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/expressjs/expressjs.svg" height=32 width=32>
+
+</div>
 
 ## Stats 💻
 
