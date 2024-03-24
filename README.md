@@ -1,31 +1,65 @@
-# 👋 Hi, I’m [@enderdev](https://github.com/enderdev-v)
+# 👋 Hi guys, I’m enderdev
 
-![chico](https://media.discordapp.net/attachments/1069321375979946086/1143229688085500055/chico.png?width=473&height=473)
+<div style="display:flex" >
+
+<p>
+
+**Just a simple person and make a some bot with ts/js and I'm not the best in that but I have fun and yes js/ts is not all my arsenal.**
 
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/enderdev-v) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@enderdev-v) 
+</p>
+<img style="border-radius:100%; border:solid; border-color:#205DB1" src="https://avatars.githubusercontent.com/u/94763461?v=4"
+height=128 width=128>
 
-- **I'm learning web design**
-- **I'm creator the  endkachu bot discord :D**
+</div>
 
+- Working in [endkachu Bot](https://endkachu.vercel.app/) 🤖
+- Learning Java ☕
+- Anything else? 💻
+
+****
+
+
+<div style="margin:10px; display:flex" >
+<div >
+<a style="margin:16px; margin-right:50px;" href="https://twitter.com/enderdev_v"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/twitter/twitter.svg" height=32 width=32></a><a style="margin:16px; margin-right:50px;" href="https://twitter.com/enderdev_v"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/youtube/youtube.svg" height=32 width=32></a>
+</div>
+
+<div>
 
 ```ts
-enum ender = {
-	apasionally: true;
-	curiously: true;
-	learning: true;
-	ready: true;
+type ender = {
+	learning: boolean;
+	curiosity: boolean;
+	username: string;
+	projects: string[];
 }
 ```
+</div>
+</div>
 
-## Tecnolgias
+## Technology's 💻
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/java/java.svg" height=32 width=32>
+<img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/js/js.svg" height=32 width=32>
+<img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/tailwind/tailwind.svg" height=32 width=32>
+<img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/ts/ts.svg" height=32 width=32>
+<img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/html/html.svg" height=32 width=32>
+<br>
+<img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/mongodb/mongodb.svg" height=32 width=32>
+<img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/reactjs/reactjs.svg" height=32 width=32>
+<img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/nextjs/nextjs.svg" height=32 width=32>
+<img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/css/css.svg" height=32 width=32>
+<img style="margin:10px; border-radius:4px" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/expressjs/expressjs.svg" height=32 width=32>
 
-# Stats
-[![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/enderdev-v?cardType=level&theme=synthwave&Text=149C9B)](https://git.io/awesome-stats-card)
+## Stats 💻
 
+****
 
+[![enderdev stats](https://awesome-github-stats.azurewebsites.net/user-stats/enderdev-v?cardType=github&theme=react&preferLogin=true)](https://git.io/awesome-stats-card)
+![](https://github-readme-streak-stats.herokuapp.com/?user=enderdev-v&theme=react&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=enderdev-v&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enderdev-v&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=enderdev-v&limit=5&theme=onedark&combine_all_yearly_contributions=true)
