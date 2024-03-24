@@ -1,29 +1,24 @@
 # 👋 Hi guys, I’m enderdev
 
 <div style="display:flex" >
-
-<p>
-
-**Just a simple person and make a some bot with ts/js and I'm not the best in that but I have fun and yes js/ts is not all my arsenal.**
-
-</p>
-<img style="border-radius:100%; border:solid; border-color:#205DB1" src="https://avatars.githubusercontent.com/u/94763461?v=4"
+	
+<img align="right" style="border-radius:100%; border:solid; border-color:#205DB1" src="https://avatars.githubusercontent.com/u/94763461?v=4"
 height=128 width=128>
 
-</div>
+<p align="left">
+
+**Just a simple person and make a some bot with ts/js and I'm not the best in that but I have fun and yes js/ts is not all my arsenal. Yes I can do webpages in next and react xd**
+
+</p>
+
 
 - Working in [endkachu Bot](https://endkachu.vercel.app/) 🤖
 - Learning Java ☕
 - Anything else? 💻
+	
+## Social 💻
 
-****
-
-<div style="margin:10px; display:flex" >
-<div >
-<a style="margin:16px; margin-right:50px;" href="https://twitter.com/enderdev_v"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/twitter/twitter.svg" height=32 width=32></a><a style="margin:16px; margin-right:50px;" href="https://twitter.com/enderdev_v"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/youtube/youtube.svg" height=32 width=32></a>
-</div>
-
-<div>
+<div align"right" style="">
 
 ```ts
 type ender = {
@@ -33,7 +28,15 @@ type ender = {
 	projects: string[];
 }
 ```
+
 </div>
+
+<div style="margin:10px; display:flex" >
+<div align="left">
+<a style="margin:16px; margin-right:50px;" href="https://twitter.com/enderdev_v"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/twitter/twitter.svg" height=32 width=32></a><a style="margin:16px; margin-right:50px;" href="https://twitter.com/enderdev_v"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/youtube/youtube.svg" height=32 width=32></a>
+</div>
+
+
 </div>
 
 ## Technology's 💻
