@@ -6,8 +6,6 @@
 
 **Just a simple person and make a some bot with ts/js and I'm not the best in that but I have fun and yes js/ts is not all my arsenal.**
 
-
-
 </p>
 <img style="border-radius:100%; border:solid; border-color:#205DB1" src="https://avatars.githubusercontent.com/u/94763461?v=4"
 height=128 width=128>
@@ -19,7 +17,6 @@ height=128 width=128>
 - Anything else? 💻
 
 ****
-
 
 <div style="margin:10px; display:flex" >
 <div >
