@@ -7,7 +7,7 @@ height=128 width=128>
 
 <p align="left">
 
-**Just a simple person and make a some bot with ts/js and I'm not the best in that but I have fun and yes js/ts is not all my arsenal. Yes I can do webpages in next and react xd**
+**Just a simple person and make a some bot with ts/js and I'm not the best in that but I have fun and yes js/ts is not all my arsenal. Yes I can do webpages in next and react**
 
 </p>
 
