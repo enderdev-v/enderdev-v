@@ -12,8 +12,9 @@ height=128 width=128>
 </p>
 
 
-- Working in [endkachu Bot](https://endkachu.vercel.app/) 🤖
+- Working in [Ryosaki Bot](https://ryosaki.vercel.app/) 🤖
 - Learning Java ☕
+- making enderbot
 - Anything else? 💻
 	
 ## Social 💻
