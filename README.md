@@ -9,7 +9,7 @@ height=128 width=128>
 
 ***A random dev that make interesting things***
 
-I made a some bots with ts/js and I'm not the best in that but I have fun and yes js/ts is not all my arsenal. Yes I can do webpages in next and react**
+I made a some bots with ts/js and I'm not the best in that but I have fun and yes js/ts is not all my arsenal. Yes I can do webpages in next and react
 
 </p>
 
