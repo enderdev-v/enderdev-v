@@ -56,9 +56,11 @@ People know me as enderdev or ender but you can tell me ender.
 
 ****
 
-[![enderdev stats](https://awesome-github-stats.azurewebsites.net/user-stats/enderdev-v?cardType=github&theme=react&preferLogin=true)](https://git.io/awesome-stats-card)
-![](https://github-readme-streak-stats.herokuapp.com/?user=enderdev-v&theme=react&hide_border=false)
-<br/>
-![enderdev](https://github-readme-stats.vercel.app/api/top-langs/?username=enderdev-v&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ <a href="https://bsky.app/profile/enderdev.bsky.social" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/780277567537414165" />
+</a>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/enderdev-v?cardType=github&theme=react&preferLogin=true" alt="https://git.io/awesome-stats-card" heigth=256 width=470 />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enderdev-v&theme=react&hide_border=false" alt="https://git.io/awesome-stats-card" heigth=256 width=470 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enderdev-v&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="enderdev" heigth=256 width=400 />
 
 ![enderdev](https://github-contributor-stats.vercel.app/api?username=enderdev-v&limit=5&theme=onedark&combine_all_yearly_contributions=true)
