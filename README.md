@@ -9,34 +9,27 @@ height=128 width=128>
 
 ***A random dev that make interesting things***
 
-I made a some bots with ts/js and I'm not the best in that but I have fun and yes js/ts is not all my arsenal. Yes I can do webpages in next and react
+I made interesting things as my web in React router and Tailwind CSS.
+Also I making Some bots in discord with Seyfert and TS.
+People know me as enderdev or ender but you can tell me ender.
 
 </p>
 
 
-- Working in [Ryosaki Bot](https://ryosaki.vercel.app/) 🤖
-- Learning Java ☕
-- making enderbot
+- Working in [Ryosaki](https://ryosaki.vercel.app) and [enderbot](https://github.com/enderdev-v/enderbot) 🤖
+- Working in design to New Tab
+- I doing some projects
 - Anything else? 💻
 	
 ## Social 💻
 
 <div align"right" style="">
 
-```ts
-type ender = {
-	learning: boolean;
-	curiosity: boolean;
-	username: string;
-	projects: string[];
-}
-```
-
 </div>
 
 <div style="margin:10px; display:flex" >
 <div align="left">
-<a style="margin:16px; margin-right:50px;" href="https://twitter.com/enderdev_v"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/twitter/twitter.svg" height=32 width=32></a><a style="margin:16px; margin-right:50px;" href="https://twitter.com/enderdev_v"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/youtube/youtube.svg" height=32 width=32></a>
+<a style="margin:16px; margin-right:50px;" href="https://twitter.com/enderdev_v"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/twitter/twitter.svg" height=32 width=32></a><a style="margin:16px; margin-right:50px;" href="https://youtube.com/@enderdev_v"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/youtube/youtube.svg" height=32 width=32></a>
 </div>
 
 
@@ -66,6 +59,6 @@ type ender = {
 [![enderdev stats](https://awesome-github-stats.azurewebsites.net/user-stats/enderdev-v?cardType=github&theme=react&preferLogin=true)](https://git.io/awesome-stats-card)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=enderdev-v&theme=react&hide_border=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enderdev-v&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![enderdev](https://github-readme-stats.vercel.app/api/top-langs/?username=enderdev-v&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-contributor-stats.vercel.app/api?username=enderdev-v&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![enderdev](https://github-contributor-stats.vercel.app/api?username=enderdev-v&limit=5&theme=onedark&combine_all_yearly_contributions=true)
