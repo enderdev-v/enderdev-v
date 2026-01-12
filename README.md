@@ -16,7 +16,7 @@ People know me as enderdev or ender but you can tell me ender.
 </p>
 
 
-- Working in [Ryosaki](https://ryosaki.vercel.app) and [enderbot](https://github.com/enderdev-v/enderbot) 🤖
+- Working in [Ryosaki](https://ryosaki.vercel.app) and [enderbot](https://github.com/enderdev-Studios/enderbot) 🤖
 - Working in design to New Tab
 - I doing some projects
 - Anything else? 💻
@@ -24,7 +24,7 @@ People know me as enderdev or ender but you can tell me ender.
 ## Technology's that i Know 💻
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,css,git,github,java,js,linux,md,mongodb,nextjs,nodejs,prisma,py,react,ts,vite,tailwind&perline=8)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=c,css,git,github,java,js,linux,md,mongodb,nextjs,nodejs,prisma,py,react,ts,vite,tailwind&perline=8)
 
 
 	
@@ -44,7 +44,4 @@ People know me as enderdev or ender but you can tell me ender.
 ****
 
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/enderdev-v?cardType=github&theme=tokyonight&preferLogin=true" alt="https://git.io/awesome-stats-card" height=256 width=470 />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enderdev-v&theme=tokyonight&hide_border=false" alt="" heigth=256 width=470 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enderdev-v&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="enderdev" heigth=256 width=400 />
-
-![enderdev](https://github-contributor-stats.vercel.app/api?username=enderdev-v&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=enderdev-v&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
