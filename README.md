@@ -9,9 +9,9 @@ height=128 width=128>
 
 ***A random dev that make interesting things***
 
-I made interesting things as my web in React router and Tailwind CSS.
+For example i made my personal webpage using React router and Tailwind CSS.
 Also I making Some bots in discord with Seyfert and TS.
-People know me as enderdev or ender but you can tell me ender.
+People know me as enderdev or ender but i prefer that people refer to me as ender :D
 
 </p>
 
