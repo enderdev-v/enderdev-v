@@ -35,13 +35,11 @@ People know me as enderdev or ender but i prefer that people refer to me as ende
 <a href="https://discordapp.com/users/780277567537414165" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 
 
-
-</div>
-
-
 ## Stats 💻
 
-****
+<a href="https://twitter.com/enderdev_v" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/780277567537414165" />
+</a>
 
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/enderdev-v?cardType=github&theme=tokyonight&preferLogin=true" alt="https://git.io/awesome-stats-card" height=256 width=470 />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=enderdev-v&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
