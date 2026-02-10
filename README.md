@@ -24,7 +24,7 @@ People know me as enderdev or ender but i prefer that people refer to me as ende
 ## Technology's that i Know 💻
 
 
-![My Skills](https://skillicons.dev/icons?i=c,css,git,github,java,js,linux,md,mongodb,nextjs,nodejs,prisma,py,react,ts,vite,tailwind&perline=8)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,css,git,github,java,js,linux,md,mongodb,nextjs,nodejs,prisma,py,react,ts,vite,tailwind&perline=8)
 
 
 	
