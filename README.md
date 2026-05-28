@@ -7,19 +7,14 @@ height=128 width=128>
 
 <p align="left">
 
-***A random dev that make interesting things***
+***A simple dev who can do interesting things, Nice to meet you!***
 
-For example i made my personal webpage using React router and Tailwind CSS.
-Also I making Some bots in discord with Seyfert and TS.
-People know me as enderdev or ender but i prefer that people refer to me as ender :D
+I'm a developer who loves solving problems.
+I code for fun and participate in competitive programming contests.
+I can program in many languages; at the moment I prefer C++.
+Anything else?
 
 </p>
-
-
-- Working in [Ryosaki](https://ryosaki.vercel.app) and [enderbot](https://github.com/enderdev-Studios/enderbot) 🤖
-- Working in design to New Tab
-- I doing some projects
-- Anything else? 💻
 
 ## Technology's that i Know 💻
 
