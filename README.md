@@ -10,8 +10,11 @@ height=128 width=128>
 ***A simple dev who can do interesting things, Nice to meet you!***
 
 I'm a developer who loves solving problems.
+<br />
 I code for fun and participate in competitive programming contests.
+<br />
 I can program in many languages; at the moment I prefer C++.
+<br />
 Anything else?
 
 </p>
