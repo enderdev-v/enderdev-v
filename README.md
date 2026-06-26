@@ -42,4 +42,4 @@ Anything else?
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/enderdev-v?cardType=github&theme=tokyonight&preferLogin=true" alt="https://git.io/awesome-stats-card" height=256 width=470 />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=enderdev-v&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enderdev-v&theme=tokyonight&preferLogin=true)](https://github.com/enderdev-v)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enderdev-v&theme=tokyonight&preferLogin=true&layout=compact)](https://github.com/enderdev-v)
